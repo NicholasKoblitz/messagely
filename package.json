@@ -20,5 +20,13 @@
     "supertest": "^4.0.2"
   },
   "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicholasKoblitz/messagely.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NicholasKoblitz/messagely/issues"
+  },
+  "homepage": "https://github.com/NicholasKoblitz/messagely#readme",
   "description": ""
 }
